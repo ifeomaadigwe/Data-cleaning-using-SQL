@@ -1,2 +1,2 @@
 # Data-cleaning-using-SQL
-As a data analyst or data scientist, you are often faced with extremely messy and dirty data.
+As a data analyst or data scientist, you are often faced with extremely messy and dirty data. These messy data can come from human error, merging data structures, or combining datasets. Therefore, data cleaning is an essential step in data analysis to ensure the data used is accurate, reliable, and consistent. In this article, we will explore different cases of data cleaning using SQL, with a focus on using PostgreSQL. We will provide examples of how to handle missing or NULL values, which are common in messy data. By following best practices for data cleaning, we can improve the quality and accuracy of our analysis and make better-informed decisions.
